@@ -1,0 +1,11 @@
+﻿################################################################################
+# 這個 .gitignore 檔案由 Microsoft(R) Visual Studio 自動建立。
+################################################################################
+
+/.vs/WCFServiceDemo
+/ConsoleAppWCFService/bin/Debug
+/ConsoleAppWCFService/obj/Debug
+/WcfServiceLibraryDemo/bin/Debug
+/WcfServiceLibraryDemo/obj/Debug
+/WindowsFormsClient/bin/Debug
+/WindowsFormsClient/obj/Debug

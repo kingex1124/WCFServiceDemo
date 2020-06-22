@@ -1,0 +1,2 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="Service" CodeBehind="~/App_Code/Service.cs" %>
+// 定義WCF的類別在什麼位置
