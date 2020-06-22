@@ -49,10 +49,10 @@
     <Compile Include="Service1.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="App.config" />
+    <WCFMetadata Include="Connected Services\" />
   </ItemGroup>
   <ItemGroup>
-    <WCFMetadata Include="Connected Services\" />
+    <None Include="App.config" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>
